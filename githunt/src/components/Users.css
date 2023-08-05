@@ -1,0 +1,39 @@
+.avatar-name{
+    display: flex;
+    margin:50px;
+    margin-top: 20px;
+    padding:20px;
+    width:100%;
+    border:none;
+    justify-content: start;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;}
+img{
+    height: 120px;
+    width:120px;
+    margin:0px;
+    border-radius: 10px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin-left: 10px;
+    text-align: left;
+    justify-items: left;
+}
+.content button{
+    margin: 10px;
+    height: 30px;
+    width:80px;
+    background-color: rgb(4, 4, 4);
+    color:aliceblue;
+    font-size: 12px;
+}
+
+.top-users{
+    color:black;
+    margin-left: 140px;
+}
